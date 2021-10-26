@@ -14,4 +14,4 @@ Bạn muốn dùng chúng để xây 1 bức tường cao n và rộng m như sa
 
 Có bao nhiêu cách tường có thể được xây dựng?
 
-Ví dụ chiều cao là n=2 và chiều rộng m=2. Có một số cách dựng sau:![legowall](https://user-images.githubusercontent.com/87629665/138873465-f9b92294-2c74-4199-a187-0f3e9280b58f.png)
+Ví dụ chiều cao là n=2 và chiều rộng m=2. Có một số cách dựng sau: https://s3.amazonaws.com/hr-assets/0/1526322982-b16b20303f-legosample.png
